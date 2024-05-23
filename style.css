@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(253, 254, 253);
+  font-family: sans-serif;
+  font-family: poppins, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.all {
+  background-color: rgb(245, 243, 243);
+  color: #000;
+  /* text-align: left; */
+  margin: 0 auto;
+  text-align: center;
+  max-width: 750px;
+  padding-left: 20px;
+  box-shadow: 1px 2px 2px;
+  margin-bottom: 30px;
+}
+
+header {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+nav a {
+  margin-left: 15px;
+  text-decoration: none;
+  color: white;
+}
+.yyy {
+  position: relative;
+}
+.logo {
+  position: absolute;
+  top: 40px;
+  left: 19%;
+}
+/* .u {
+  position: relative;
+}
+.uu{
+  position: absolute;
+  top: 12px;
+} */
+main {
+  text-align: center;
+  margin: 50px auto 40px auto;
+  max-width: 550px;
+  /* margin-top: 40px;
+  margin-bottom: 40px; */
+  position: sticky;
+  border-bottom: 2px solid black;
+}
+
+h1 {
+  padding-bottom: 10px;
+  font-weight: bold;
+  font-family: sans-serif;
+
+  /* text-align: center; */
+}
+.h1-para {
+  text-align: center;
+  font-size: 16px;
+  /* padding-top: 25px; */
+  margin-bottom: 20px;
+}
+main a {
+  text-decoration: none;
+}
+
+section {
+  text-align: center;
+  margin: 0 auto;
+  text-align: left;
+  /* margin: 0px auto 50px; */
+  max-width: 550px;
+}
+
+.headings {
+  margin-bottom: 25px;
+}
+
+.para-1,
+.para-2,
+h2 {
+  margin-bottom: 20px;
+}
+section {
+  margin-bottom: 30px;
+  border-bottom: 2px solid black;
+}
+footer {
+  font-weight: bold;
+}
+.low {
+  font-size: 14px;
+}
